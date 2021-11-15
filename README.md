@@ -1,5 +1,5 @@
-### Hi there 👋
-Let's automate it�😊
+ Hello there 👋
+Let's automate it😊
 <!--
 **Irakoze-Hortance/Irakoze-Hortance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
