@@ -1,6 +1,6 @@
 # Hi, I'm Hortance Irakoze 👋
 
-I'm a developer passionate about open source, web development, and machine learning. 
+A developer passionate about open source, web development, and machine learning. 
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Irakoze-Hortance.Irakoze-Hortance)
 ### Statistics ###
